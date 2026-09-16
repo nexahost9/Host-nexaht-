@@ -1,0 +1,6 @@
+{
+  "name": "Nexa Host",
+  "description": "Hospedagem de alto desempenho para FiveM, servidores de jogos, bots, sites e aplicações com entrega rápida e suporte especializado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
